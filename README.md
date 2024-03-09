@@ -1,5 +1,5 @@
 <h1 align="center">Hello <span class="wave">👋</span>, I'm Aroma</h1>
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://raw.githubusercontent.com/aromaperis/aromaperis/main/style.css">
 <h3 align="center">DataScience Student | Web Developer</h3>
 
 - 🔭 I’m currently **Enhancing my Abilities**
@@ -20,6 +20,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aromaperis&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-![](https://visitcount.itsvg.in/api?id=aromaperis&icon=1&color=8)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
