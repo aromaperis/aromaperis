@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous+&size=35&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=500&height=70&lines=Hello+%F0%9F%91%8B%2C+I'm+Aroma" alt="Typing SVG" /></a>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous+&size=35&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=500&height=70&lines=Hello+%F0%9F%91%8B%2C+I'm+Aroma" alt="Typing SVG" /></a>
 <h3 align="center">DataScience Student | Web Developer</h3>
 <hr>
   
