@@ -1,4 +1,5 @@
-<h1 align="center">Hey there👋, I'm Aroma</h1>
+<h1 align="center">Hello <span class="wave">👋</span>, I'm Aroma</h1>
+<link rel="stylesheet" href="style.css">
 <h3 align="center">DataScience Student | Web Developer</h3>
 
 - 🔭 I’m currently **Enhancing my Abilities**
