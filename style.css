@@ -1,0 +1,8 @@
+.wave {
+    animation: wave 2s linear infinite;
+}
+
+@keyframes wave {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(15deg); }
+}
