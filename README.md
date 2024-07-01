@@ -4,7 +4,7 @@
   
 - 🔭 I’m currently **Enhancing my Abilities**
 
-- 🌱 I’m currently learning **HTML | CSS | JS | Git**
+- 🌱 I’m picking up **HTML | CSS | JS | Git**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/aromaperis)
 
